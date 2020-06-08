@@ -39,7 +39,7 @@
     "prettier": "^1.15.3"
   },
   "dependencies": {
-    "react-native-webview": ">=5.0.1"
+    "react-native-webview": "https://github.com/rossenahuh/react-native-webview"
   },
   "husky": {
     "hooks": {
